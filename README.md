@@ -4,7 +4,7 @@ Hello I’m Adi, highly skilled and dedicated mobile application developer aspec
 
 Other than that i am open to learn any new technology to fit this role, i am a fast learner and practical person, so i can adapt fast to help the team to achieve the goals.
 
-<a href="mailto:putuadisanjaya04112000@gmail.com"><img src="https://img.shields.io/badge/Email-adi-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/adisanjaya" target="_blank"><img src="https://img.shields.io/badge/linkedin-adi-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="mailto:putuadisanjaya04112000@gmail.com"><img src="https://img.shields.io/badge/Email-adi-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/adisanjaya" target="_blank"><img src="https://img.shields.io/badge/linkedin-adi-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/adiiisanjayaa/portfolio" target="_blank"><img src="https://img.shields.io/badge/portfolio-Adi-green.svg?style=for-the-badge&logoColor=white" ></a>
 
 <h2 align="left" id="macropower-tech">Skills</h2>
 

@@ -2,7 +2,7 @@
 
 Hello I’m Adi, highly skilled and dedicated mobile application developer aspecially in Flutter with 4 years of experience, with a passion for creating innovative, user-friendly applications and high performance application. Committed to delivering high-quality solutions that exceed client expectations. Seeking challenging projects to utilize my expertise in Software Engineer and contribute to the success of a dynamic organization.
 
-Other than that i am open to learn any new technology to fit this role, i am a fast learner and practical person, so i can adapt fast to help the team to achieve the goals.
+Other than that i am open to learn any new technology, i am a fast learner and practical person, so i can adapt fast to help the team to achieve the goals.
 
 <a href="mailto:putuadisanjaya04112000@gmail.com"><img src="https://img.shields.io/badge/Email-adi-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/adisanjaya" target="_blank"><img src="https://img.shields.io/badge/linkedin-adi-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/adiiisanjayaa/portfolio#portfolio" target="_blank"><img src="https://img.shields.io/badge/portfolio-Adi-green.svg?style=for-the-badge&logoColor=white" ></a>
 

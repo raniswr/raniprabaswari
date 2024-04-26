@@ -104,6 +104,12 @@ Other than that i am open to learn any new technology, i am a fast learner and p
       </a>
       <br>Penetration Test
     </td>
+    <td align="center" width="96">
+      <a href="#ethicalHack" >
+        <img src="img/javascript.png"  height="30" alt="ethicalHack" />
+      </a>
+      <br>Ethical Hack
+    </td>
   </tr>
 </table>
 

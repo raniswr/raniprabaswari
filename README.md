@@ -98,6 +98,12 @@ Other than that i am open to learn any new technology, i am a fast learner and p
       </a>
       <br>App Store
     </td>
+    <td align="center" width="96">
+      <a href="#pentest" >
+        <img src="img/javascript.png"  height="30" alt="Pentest" />
+      </a>
+      <br>Penetration Test
+    </td>
   </tr>
 </table>
 

@@ -4,7 +4,7 @@ Hello I’m Rani, I am excited about the opportunity to work as an Expert-Level 
 
 Other than that i am open to learn any new technology, i am a fast learner and practical person, so i can adapt fast to help the team to achieve the goals.
 
-<a href="mailto:raniswr58@gmail.com"><img src="https://img.shields.io/badge/Email-adi-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/rani-prabaswari" target="_blank"><img src="https://img.shields.io/badge/linkedin-adi-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/raniprabaswari/portfolio#portfolio" target="_blank"><img src="https://img.shields.io/badge/portfolio-Rani-green.svg?style=for-the-badge&logoColor=white" ></a>
+<a href="mailto:raniswr58@gmail.com"><img src="https://img.shields.io/badge/Email-rani-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rani-prabaswari/" target="_blank"><img src="https://img.shields.io/badge/linkedin-rani-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/raniprabaswari/portfolio#portfolio" target="_blank"><img src="https://img.shields.io/badge/portfolio-Rani-green.svg?style=for-the-badge&logoColor=white" ></a>
 
 <h2 align="left" id="macropower-tech">Skills</h2>
 

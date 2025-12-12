@@ -1,6 +1,12 @@
-# A.A Rani Prabaswari Dewi
+# Anak Agung Rani Prabaswari Dewi
 
-Hello I’m Rani, I am excited about the opportunity to work as an Expert-Level Mobile App Engineer on your project. If you using Flutter, I am confident in my ability to work swiftly and accurately, and I believe I can provide valuable solutions to help build innovative applications. To gain a deeper understanding of your requirements beyond the job posting details, I would appreciate the opportunity to schedule a call to discuss the project further.
+As a Mobile Developer, I specialize in creating cross-platform mobile applications for Android and iOS. My experience includes
+integrating applications with backend systems, optimizing performance, and collaborating with UI/UX designers to deliver
+engaging user experiences. I am skilled in Flutter, REST APIs, Firebase, Kotlin, leveraging these technologies to develop
+high-performing and intuitive applications. Currently pursuing a degree in Information Systems at Institut Teknologi dan Bisnis
+STIKOM Bali, I am committed to continuous learning, evidenced by certifications in Software Development and Flutter
+Development. I am actively seeking opportunities to contribute to innovative projects that enhance user experience and drive
+impactful digital solutions.
 
 Other than that i am open to learn any new technology, i am a fast learner and practical person, so i can adapt fast to help the team to achieve the goals.
 
